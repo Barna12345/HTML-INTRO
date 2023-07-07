@@ -1,0 +1,19 @@
+*{
+    margin 0px;
+    padding: 0px;
+}
+.item{
+    display: flex;
+}
+.list{
+    margin: 10px;
+    padding: 60px;
+    font-size: 30px;
+    display: table-cell;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+
